@@ -142,4 +142,4 @@ git push -u origin main
 - Push notifications for order status changes
 
 ## License
-MIT
+MIT"# canteen-management" 
